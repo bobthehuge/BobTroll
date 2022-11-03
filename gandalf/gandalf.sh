@@ -13,4 +13,4 @@ curl -sL 'https://github.com/bobthehuge/BobTroll/blob/main/gandalf/gandalf.tar.g
 tar -xzf gandalf.tar.gz
 
 xclear &
-cvlc -fR gandalf.mp4
+cvlc -fR gandalf.mp4 --no-video-title-show
