@@ -8,7 +8,7 @@ xclear(){
         done
 }
 
-curl -sL 'https://github.com/bobthehuge/gandalf/blob/main/gandalf.mp4?raw=true' >> gandalf.tar.gz
+curl -sL 'https://github.com/bobthehuge/BobTroll/blob/main/gandalf/gandalf.tar.gz' >> gandalf.tar.gz
 
 tar -xzf gandalf.tar.gz
 
