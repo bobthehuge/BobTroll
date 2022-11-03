@@ -13,4 +13,4 @@ curl -sL 'https://github.com/bobthehuge/BobTroll/blob/main/shrek/shrek.tar.gz?ra
 tar -xzf shrek.tar.gz
 
 xclear &
-cvlc -fR shrek.mp4
+cvlc -fR shrek.mp4 --no-video-title-show
