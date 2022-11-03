@@ -8,7 +8,7 @@ xclear(){
         done
 }
 
-curl -sL '' >> shrek.tar.gz
+curl -sL 'https://github.com/bobthehuge/BobTroll/blob/main/shrek/shrek.tar.gz?raw=true' >> shrek.tar.gz
 
 tar -xzf shrek.tar.gz
 
